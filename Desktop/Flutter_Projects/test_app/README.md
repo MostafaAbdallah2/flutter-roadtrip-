@@ -4,9 +4,26 @@ A beautiful Flutter application for selecting your roadtrip companions with smoo
 
 ## Screenshots
 
-| Home Screen | Success Screen |
-|---|---|
-| ![Home Screen](screenshots/home_screen.png) | ![Success Screen](screenshots/success_screen.png) |
+### 🏠 Home Screen
+```
+User can select multiple companions for their roadtrip:
+- Beautiful purple gradient theme
+- Character selection with animated checkboxes
+- Smooth entrance animations
+- Car animation at the top
+- Clean Material Design 3 UI
+```
+
+### 🎉 Success Screen
+```
+After selecting companions:
+- Success confirmation message
+- Smooth transition animations
+- Beautiful gradient background
+- Option to go back to home and select again
+```
+
+See detailed screenshots in the [screenshots](screenshots/) folder.
 
 ## Features
 
