@@ -2,6 +2,12 @@
 
 A beautiful Flutter application for selecting your roadtrip companions with smooth animations and an elegant purple-themed UI.
 
+## Screenshots
+
+| Home Screen | Success Screen |
+|---|---|
+| ![Home Screen](screenshots/home_screen.png) | ![Success Screen](screenshots/success_screen.png) |
+
 ## Features
 
 ✨ **Smooth Animations**
